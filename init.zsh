@@ -30,4 +30,4 @@ else
 fi
 unset asdf_data
 
-source ${ASDF_DIR}/lib/asdf.sh
+source ${ASDF_DIR}/asdf.sh
